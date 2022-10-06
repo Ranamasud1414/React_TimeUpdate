@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_TimeUpdate/static/css/main.8361e92e.css",
+    "main.js": "/React_TimeUpdate/static/js/main.89a6eb29.js",
+    "index.html": "/React_TimeUpdate/index.html",
+    "main.8361e92e.css.map": "/React_TimeUpdate/static/css/main.8361e92e.css.map",
+    "main.89a6eb29.js.map": "/React_TimeUpdate/static/js/main.89a6eb29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8361e92e.css",
+    "static/js/main.89a6eb29.js"
+  ]
+}
